@@ -6,7 +6,7 @@ $ pkg install git
 
 $ pkg install python
  
-$ git clone https://github.com/users002/Hack
+$ git clone https://github.com/Mayura-X/Hack
 
 $ cd Hack
 
